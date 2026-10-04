@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nsasajak
-- 👀 I’m interested in #C, C and C++
+- 👋 Hi, I’m @Shinan
+- 👀 I’m interested in python #C, C and C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Discord: Shinan.rpp
 - 😄 Pronouns: They/them
 - ⚡ Fun fact: ...
 
